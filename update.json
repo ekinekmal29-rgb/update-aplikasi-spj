@@ -1,5 +1,5 @@
 {
-  "versi": "2.4",
+  "versi": "2.3",
   "url": "https://github.com/ekinekmal29-rgb/update-aplikasi-spj/releases/download/app/Download_SPJ_Terbaru.zip",
   "changelog": "1. Penambahan dropdown tahun pada list database perjadin dan belanja makan minum\n2. Update KOP surat sesuai instansi yang menandatangani\n3. Indikator data yang beririsan/duplikat\n4. Penambahan kode srikandi pada SPT Word sehingga SPT word tinggal upload ke srikandi\n5. Perbaikan bug"
 }
