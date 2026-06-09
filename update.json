@@ -1,6 +1,6 @@
 {
-  "versi": "2.7",
+  "versi": "2.8",
   "url": "https://github.com/ekinekmal29-rgb/update-aplikasi-spj/releases/download/app/Download_SPJ_Terbaru.zip",
-  "changelog": "Versi 2.7:\n- Penyesuaian versi dan peningkatan stabilitas sistem.\n\nVersi 2.6:\n- Penyesuaian versi dan peningkatan stabilitas sistem.\n\nVersi 2.5:\n- Penyesuaian versi dan peningkatan stabilitas sistem.\n\nVersi 2.4:\n1. Penambahan dropdown tahun pada list database perjadin dan belanja makan minum\n2. Update KOP surat sesuai instansi yang menandatangani\n3. Indikator data yang beririsan/duplikat\n4. Penambahan kode srikandi pada SPT Word sehingga SPT word tinggal upload ke srikandi\n5. Perbaikan bug",
-  "checksum": "a8728c763d5112b8821d26a92cd2f5c6febd00165afdab719e8af7bec1759cb9"
+  "changelog": "Versi 2.8:\n- Penyesuaian versi dan peningkatan stabilitas sistem.\n\nVersi 2.7:\n- Penyesuaian versi dan peningkatan stabilitas sistem.\n\nVersi 2.6:\n- Penyesuaian versi dan peningkatan stabilitas sistem.\n\nVersi 2.5:\n- Penyesuaian versi dan peningkatan stabilitas sistem.\n\nVersi 2.4:\n1. Penambahan dropdown tahun pada list database perjadin dan belanja makan minum\n2. Update KOP surat sesuai instansi yang menandatangani\n3. Indikator data yang beririsan/duplikat\n4. Penambahan kode srikandi pada SPT Word sehingga SPT word tinggal upload ke srikandi\n5. Perbaikan bug",
+  "checksum": "56cd9f6cff7e76fb7edf1c8a2d339acc9079ea96b4691fadb60ef4fdd1327df8"
 }
